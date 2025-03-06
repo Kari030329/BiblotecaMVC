@@ -1,2 +1,2 @@
 # BiblotecaMVC
-hola como estas
+Mi primer repositorio de un proyecto de MVC 
